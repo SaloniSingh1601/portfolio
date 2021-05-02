@@ -1,0 +1,172 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Saloni Singh. A Computer Science Junior at IIT Dharwad. I am enthusiastic about the technologies aroung me. I am quite proficient in web-development and machine learning. At present I am exploring Blockchain and CyberSecurity. I also actively practise competitive coding. I am a badminton player and keyboardist. Looking forward to connecting with you!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "education": "Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "EmoSpeech",
+        "startDate": "June 2020",
+        "description": "A speech emotion recognition project based on speech processing and machine learning and neural networks. It basically tries to extract emotion of the person speaking. The present model is trained on ravdess dataset.The emotions are classified into 4 main emotions (namely neutral, anger, happy and calm)",
+        "images": [
+          "images/portfolio/EmoSpeech/p1.png",
+          "images/portfolio/EmoSpeech/p2.png"
+        ],
+        "url": "https://github.com/SaloniSingh1601/EmoSpeech",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Ice-Breaker",
+        "startDate": "Nov 2020 - Dec 2020",
+        "description": "This project was a social-media website intended to act as ice-breaker for new-entrants in the college. It has a option to Post, Like, Comment on images and texts as well as chat with fellows.",
+        "images": [
+          "images/portfolio/ice-breaker/p1.jpg"
+        ],
+        "url": "https://github.com/SaloniSingh1601/Ice-Breaker-take-2",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "php"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Avsar",
+        "startDate": "February 2021",
+        "description": "The website is an event management website which gives users the freedom to choose for locations and various facilities like photographer, catering services etc. The website has also the feaciity of a chatbot ",
+        "images": [
+          "images/portfolio/avsar/p1.jpg",
+          "images/portfolio/avsar/p2.jpg",
+          "images/portfolio/avsar/p3.png"
+        ],
+        "url": "https://avsarteamshe.000webhostapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SCSS"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain"
+          },
+          {
+            "name": "GoogleCloud APIs",
+            "class": "devicon-googlecloud-plain"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CogniVed Solutions",
+        "title": "Software Engineering Intern",
+        "mainTech": [
+          "01.2021 - present"
+        ],
+        "technologies": [
+          "Responsible for research about Chatbot",
+          "on various cloud platforms",
+          "Chatbot to human handoff",
+          "Role-management and authorization using auth0"
+        ]
+      },
+      {
+        "company": "Developer Students Club",
+        "title": "Core Team member",
+        "mainTech": [
+          "08.2020 - Present"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Career Development Cell (CDC), IIT Dharwad",
+        "title": "Technical Team member",
+        "mainTech": [
+          "07.2020 - 04.2021"
+        ],
+        "technologies": [
+          "Responsible for the technical activities",
+          " of CDC such as web-ops as ",
+          "well as for the social media activities"
+        ]
+      },
+      {
+        "company": "Diginique Techlabs",
+        "title": "Student Intern",
+        "mainTech": [
+          "05.2020 - 09.2020"
+        ],
+        "technologies": [
+          "Performing analysis on different Data",
+          " including Covid Data",
+          "Understanding various ML and DL algorithms."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "Bhartiya Vidya Bhavans' B.P. Vidya Mandir, Ashti, Nagpur",
+        "study": "10th Board",
+        "year": [
+          "Graduated: 2017"
+        ],
+        "score": [
+          "98.8%"
+        ]
+      },
+      {
+        "name": "Dr. Ambedkar College Deekshabhoomi, Nagpur",
+        "study": "12th Board",
+        "year": [
+          "Graduated: 2019"
+        ],
+        "score": [
+          "93.54%"
+        ]
+      },
+      {
+        "name": "Indian Institute of Technology, Dharwad",
+        "study": "B.Tech Computer Science and Engineering",
+        "year": [
+          "Expected Graduation: 2023"
+        ],
+        "score": [
+          "SPI : 9.83",
+          "CPI : 9.11"
+        ]
+      }
+    ]
+  }

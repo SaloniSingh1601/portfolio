@@ -1,0 +1,103 @@
+{
+    "basic_info": {
+      "name": "Saloni Singh",
+      "titles": [ "Full-stack Developer", "React-developer", "Machine learning and deep learning enthusiast", "Competitive Programmer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/SaloniSingh1601",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/saloni-singh-b9b4941a4/",
+          "class": "fab fa-linkedin-in"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/SinghSaloni1601",
+          "class": "fab fa-twitter"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React.js",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "90"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "90"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "75"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "75"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "php",
+          "class": "devicon-php-plain",
+          "level": "75"
+        },
+        {
+          "name": "Ubuntu",
+          "class": "devicon-ubuntu-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "60"
+        },
+        {
+          "name": "TensorFLow",
+          "class": "cib-tensorflow ",
+          "level": "60"
+        }
+      ]
+    }
+  }
